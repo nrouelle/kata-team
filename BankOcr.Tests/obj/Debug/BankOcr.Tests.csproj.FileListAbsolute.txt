@@ -1,0 +1,9 @@
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\BankOcr.Tests.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\BankOcr.Tests.pdb
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\BankOcr.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\BankOcr.pdb
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\obj\Debug\BankOcr.Tests.csprojResolveAssemblyReference.cache
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\obj\Debug\BankOcr.Tests.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr.Tests\obj\Debug\BankOcr.Tests.pdb

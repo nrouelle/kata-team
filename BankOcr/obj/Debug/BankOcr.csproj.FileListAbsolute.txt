@@ -1,0 +1,5 @@
+C:\Sources\kata\csharp\BankOcr\BankOcr\bin\Debug\BankOcr.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr\bin\Debug\BankOcr.pdb
+C:\Sources\kata\csharp\BankOcr\BankOcr\obj\Debug\BankOcr.csprojResolveAssemblyReference.cache
+C:\Sources\kata\csharp\BankOcr\BankOcr\obj\Debug\BankOcr.dll
+C:\Sources\kata\csharp\BankOcr\BankOcr\obj\Debug\BankOcr.pdb
